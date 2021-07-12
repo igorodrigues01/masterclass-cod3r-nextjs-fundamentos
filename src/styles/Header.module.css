@@ -1,0 +1,15 @@
+#headerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ececec;
+    padding:.75rem 0;
+}
+#headerContainer nav {
+    display: flex;
+    justify-content: space-around;
+}
+#headerContainer nav a {
+    color:#512afc;
+    text-decoration:underline;
+}

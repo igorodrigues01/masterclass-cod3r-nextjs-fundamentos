@@ -1,0 +1,18 @@
+.card {
+    display: block;
+    padding:.5rem 1rem;
+    margin: .5rem 0;
+
+    border:1px solid #f1f1f1;
+    border-radius:.5rem;
+    background:#fff;
+    color:#666;
+    box-shadow: 0 .25rem .2rem rgba(0,0,0, .1);
+
+    cursor:pointer;
+}
+.card h1 {
+    font-size:1rem;
+    font-weight:700;
+    text-transform: uppercase;
+}
